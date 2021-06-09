@@ -11,7 +11,7 @@ Google Translate API provided by [Rapid API](https://rapidapi.com/googlecloud/ap
   * [Install client libraries](#install-client-libraries)
   * [Using client libraries](#using-client-libraries)
 * [Running the server](#running-the-server)
-  * [Execution of code](#execution-of-code)
+  * [Execution of code](#execution-of-the-code)
 * [Supporting Versions](#supporting-versions)
 * [License](#license)
 
